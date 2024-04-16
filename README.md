@@ -1,4 +1,4 @@
-### kokkk kokkkk kokkkkk
+###  PROJEK AYAM & NIL AKIDAH
 
 
 <p align="center">
@@ -39,7 +39,7 @@
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6281392505882?text=Asalamualaikum+bang) <br><br>
 #
 
-## Team AyaM
+## AYAM / NIK AKIDAH
 <p align="center">
 <i>
 </p
